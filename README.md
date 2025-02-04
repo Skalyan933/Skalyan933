@@ -48,7 +48,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=skalyan933&" alt="skalyan933" />
 </p>
 <br>
+
+</p>
+
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Skalyan933&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
-
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Skalyan933&limit=5&theme=flat&combine_all_yearly_contributions=true)
